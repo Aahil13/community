@@ -2,7 +2,7 @@
 
 When you contribute to a project, you're not just adding code or docs — you're also adding context. Your changes become part of the project's history, and your commit messages explain why those changes were made.
 
-In this guide, we'll explore how to write effective commit messages that follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard. This standard helps us create clear, consistent commit messages that are easy to understand and navigate.
+In this guide, you'll explore how to write effective commit messages that follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard. This standard helps us create clear, consistent commit messages that are easy to understand and navigate.
 
 ## TL;DR
 
@@ -66,11 +66,11 @@ When writing your commit message, remember to:
 
 **Examples:**
 
-> `feat: add user avatar upload feature to improve user experience on profile pages`
+> `feat(profile): add user avatar upload feature`
 
-> `docs: reorganize README for better readability`
+> `docs: reorganize README structure and content for easier navigation`
 
-> `chore: update build scripts to improve performance`
+> `chore(build): update scripts to reduce build time by 30%`
 
 ### Use the commit body for additional context
 
